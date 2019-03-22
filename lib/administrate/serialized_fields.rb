@@ -3,7 +3,7 @@ require 'administrate/serialized_fields/version'
 require 'active_support/concern'
 require 'active_support/core_ext/module/attribute_accessors'
 
-module Admin
+module Administrate
   module SerializedFields
     extend ActiveSupport::Concern
 

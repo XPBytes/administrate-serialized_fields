@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    administrate-serialized_fields (0.1.0)
+    administrate-serialized_fields (0.1.1)
       activesupport (>= 4)
 
 GEM
